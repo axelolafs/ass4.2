@@ -1,0 +1,1 @@
+cmd_/home/pi/assignments/ass4.2/hello.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/assignments/ass4.2/hello.ko /home/pi/assignments/ass4.2/hello.o /home/pi/assignments/ass4.2/hello.mod.o;  true
