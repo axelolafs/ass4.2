@@ -3,7 +3,7 @@
 #include<linux/kernel.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Derek Molloy");
+MODULE_AUTHOR("Axel Ólafsson");
 MODULE_DESCRIPTION("A simple Linux LKM that accepts a single parameter.");
 MODULE_VERSION("0.1");
 
